@@ -7,9 +7,9 @@ SeniorCitizen, Partner, Dependents, Tenure, PhoneService, MultipleLines , Intern
 DeviceProtection, TechSupport, StreamingTV, StreamingMovies, Contract, PaperlessBilling, PaymentMethod, MonthlyCharges'
 TotalCharges and Churn. It contains 
 
-                                  TECHNOLOGY AND ALGORITHM USED
-Tech Stack
-● Language - Python
-● Environment - Google Colab
-● Libraries - Tensorflow, scikit-learn, pandas, numpy, matplotlib, keras
+                                
+Tech Stack - 
+Language - Python
+Environment - Google Colab
+Libraries - Tensorflow, scikit-learn, pandas, numpy, matplotlib, keras
 
