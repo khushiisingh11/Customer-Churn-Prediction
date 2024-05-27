@@ -5,11 +5,8 @@ likely to churn and implementing targeted retention strategies is essential for 
 Dataset used for the project is telecom Customer Churn Prediction and it containes features like Gender
 SeniorCitizen, Partner, Dependents, Tenure, PhoneService, MultipleLines , InternetService, OnlineSecurity ,OnlineBackup
 DeviceProtection, TechSupport, StreamingTV, StreamingMovies, Contract, PaperlessBilling, PaymentMethod, MonthlyCharges'
-TotalCharges and Churn. It contains 
+TotalCharges and Churn. 
 
-                                
-Tech Stack - 
-Language - Python
-Environment - Google Colab
-Libraries - Tensorflow, scikit-learn, pandas, numpy, matplotlib, keras
+                            
+Language used is Python, the Environment is Google Colab and the Libraries used in the code is Tensorflow, scikit-learn, pandas, numpy, matplotlib, keras. 
 
